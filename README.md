@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tom2o17
 - 👀 I’m interested in Blockchain smart contracts && Algorithmic Trading
-- 🌱 I’m currently learning Solidity && Plutus 
 - 💞️ I’m looking to collaborate on Algorithmic Trading Bots
 - 📫 How to reach me Thomasaclement98@gmail.com
 
