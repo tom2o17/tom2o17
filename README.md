@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tom2o17
 - 📫 How to reach me Thomasaclement98@gmail.com
+- 📥 Telegram @tom2o17
 
 <!---
 tom2o17/tom2o17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
