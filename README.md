@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tom2o17
-- 📫 How to reach me Thomasaclement98@gmail.com
+- 📫 How to reach me tom2o17@frax.com
 - 📥 Telegram @tom2o17
 
 ⚠️ If no contributions, I was on chain 🤪
